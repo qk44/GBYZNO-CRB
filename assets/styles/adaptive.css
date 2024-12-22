@@ -1709,7 +1709,7 @@
     .section-info .container .block .block-info .info-bottom .card{
         display: flex;
         gap: 14px;
-        width: 280px;
+        width: 240px;
         height: fit-content;
     }
 
